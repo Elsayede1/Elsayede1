@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Elsayed El-Sherbiny!
+👋 Hello, I'm Elsayed El-Sherbiny!<br>🔹 Junior Data Analyst & Data Scientist<br>🔹 Passionate About Turning Data into Insights & Smart Decisions<br>🔹 Keen on Machine Learning, Visualization, and Data-Driven Solutions<br>✅ Data Cleaning & Preprocessing – 🧹 Ensuring high-quality, structured data for analysis.<br>📊 Exploratory Data Analysis (EDA) – 🔍 Identifying trends, patterns, and key insights.<br>🤖 Machine Learning & Predictive Analytics – 📈 Developing models to make data-driven predictions.<br>📊 Data Visualization – 📊 Creating interactive dashboards and insightful reports.<br>🛢 SQL & Database Management – 🗄️ Querying and managing large datasets efficiently.
 
 
 ## 🌐 Socials:
